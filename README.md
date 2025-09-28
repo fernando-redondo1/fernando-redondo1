@@ -72,7 +72,7 @@
 
 
 
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="ferredit26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ferredit26@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
 
