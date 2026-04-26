@@ -6,9 +6,9 @@
 ---
 
 ### 🛡️ Perfil Técnico
-- 🔭 **Especialización:** Actualmente cursando el programa de Especialización en Ciberseguridad en el I.E.S. [cite_start]Celia Viñas (Almería)[cite: 73].
-- [cite_start]🛠️ **Enfoque:** Hardening de sistemas (Linux/Windows), Blue Team/SOC y Forense Digital[cite: 9, 10, 11].
-- [cite_start]🛡️ **Infraestructura:** Gestión de Firewalls, Redes TCP/IP y virtualización con Docker[cite: 12, 17, 18, 20].
+- 🔭 **Especialización:** Actualmente cursando el programa de Especialización en Ciberseguridad en el I.E.S. [cite_start]Celia Viñas (Almería)[cite: 72, 73].
+- [cite_start]🛡️ **Enfoque:** Hardening de sistemas (Linux/Windows), Blue Team/SOC y Forense Digital[cite: 9, 10, 11].
+- [cite_start]🌐 **Infraestructura:** Gestión de Firewalls, Redes TCP/IP y virtualización con Docker[cite: 12, 17, 18, 20].
 - [cite_start]🌍 **Idiomas:** Inglés nivel Avanzado[cite: 25].
 
 ---
@@ -16,15 +16,15 @@
 ### 🚀 Proyectos y Herramientas
 
 #### **Ciberseguridad & Scripting**
-- [cite_start]**[Escáner de red modular en Python](https://github.com/fernando-redondo1/port-scanner):** Herramienta de reconocimiento con escaneo TCP concurrente, banner grabbing y OS fingerprinting mediante análisis de TTL con Scapy.
-- [cite_start]**Automatización:** Desarrollo de scripts en **Python** y **Bash** para auditoría y tareas de red.
+- [cite_start]**[Escáner de red modular en Python](https://github.com/fernando-redondo1/port-scanner):** Herramienta de reconocimiento con escaneo TCP concurrente, banner grabbing y OS fingerprinting mediante análisis de TTL con Scapy[cite: 67, 68, 69, 70].
+- [cite_start]**Automatización:** Desarrollo de scripts en **Python** y **Bash** para auditoría y tareas de red[cite: 21, 22].
 
 #### **Stack Tecnológico**
-![Seguridad](https://img.shields.io/badge/-Metasploit-336791?style=flat-square&logo=metasploit&logoColor=white) 
-![Sistemas](https://img.shields.io/badge/-Linux%20Hardening-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Redes](https://img.shields.io/badge/-TCP%2FIP-red?style=flat-square)
-![Contenedores](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloud](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-336791?style=flat-square&logo=metasploit&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux%20Hardening-FCC624?style=flat-square&logo=linux&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-red?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -37,5 +37,5 @@
 ---
 
 ### 📫 Contacto
-- [cite_start]💼 **LinkedIn:** [/fernando-redondo26](https://linkedin.com/in/fernando-redondo26) [cite: 33, 34]
-- [cite_start]📧 **Email:** [ferredit26@gmail.com](mailto:ferredit26@gmail.com) [cite: 5]
+- [cite_start]💼 **LinkedIn:** [/fernando-redondo26](https://linkedin.com/in/fernando-redondo26)[cite: 33, 34].
+- [cite_start]📧 **Email:** [ferredit26@gmail.com](mailto:ferredit26@gmail.com)[cite: 5].
