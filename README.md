@@ -20,6 +20,7 @@ La tecnología me ha interesado desde siempre, y la seguridad informática es lo
 **Ciberseguridad & Scripting**
 
 - **[Escáner de red modular en Python](https://github.com/fernando-redondo1/port-scanner):** Herramienta de reconocimiento con escaneo TCP concurrente, banner grabbing y OS fingerprinting mediante análisis de TTL con Scapy.
+- **[Face Scanner](https://github.com/fernando-redondo1/face-scanner):** Sistema de visión por computador en tiempo real con MediaPipe y OpenCV. Detección facial local sin APIs en la nube, malla 478 puntos, blur por privacidad, grabación y log CSV de detecciones. Empaquetado en Docker con CI/CD que publica imagen en GHCR.
 - **Automatización:** Desarrollo de scripts en Python y Bash para auditoría y tareas de red.
 
 **Stack Tecnológico**
@@ -37,11 +38,3 @@ La tecnología me ha interesado desde siempre, y la seguridad informática es lo
 - **Cisco Networking Academy:** Introduction to Cybersecurity.
 - **AWS:** Cloud Quest: Cloud Practitioner.
 - **HackTheBox:** [@Fernandoredondo1](https://app.hackthebox.com/users/37)
-- **TryHackMe:** [ferredit26](https://tryhackme.com/p/ferredit26)
-
----
-
-### Contacto
-
-- **LinkedIn:** [/fernando-redondo26](https://linkedin.com/in/fernando-redondo26)
-- **Email:** [ferreddit26@proton.me](mailto:ferreddit26@proton.me)
