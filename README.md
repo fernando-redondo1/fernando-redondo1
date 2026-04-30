@@ -8,7 +8,7 @@ La tecnología me ha interesado desde siempre, y la seguridad informática es lo
 
 ### Perfil Técnico
 
-- **Especialización:** Cursando el programa de Especialización en Ciberseguridad en el I.E.S. Celia Viñas (Almería).
+- **Formación:** Cursando el programa de Especialización en Ciberseguridad.
 - **Enfoque:** Hardening de sistemas (Linux/Windows), Blue Team/SOC y Forense Digital.
 - **Infraestructura:** Gestión de firewalls, redes TCP/IP y virtualización con Docker.
 - **Idiomas:** Inglés nivel avanzado.
@@ -38,3 +38,11 @@ La tecnología me ha interesado desde siempre, y la seguridad informática es lo
 - **Cisco Networking Academy:** Introduction to Cybersecurity.
 - **AWS:** Cloud Quest: Cloud Practitioner.
 - **HackTheBox:** [@Fernandoredondo1](https://app.hackthebox.com/users/37)
+- **TryHackMe:** [ferredit26](https://tryhackme.com/p/ferredit26)
+
+---
+
+### Contacto
+
+- **LinkedIn:** [/fernando-redondo26](https://linkedin.com/in/fernando-redondo26)
+- **Email:** [ferreddit26@proton.me](mailto:ferreddit26@proton.me)
