@@ -1,48 +1,53 @@
-# Hola, soy Fernando Redondo 👋
+Hi, I'm Fernando Redondo 👋
+Cybersecurity Specialist | Systems & Network Hardening | Data & AI
+Technology has always fascinated me, and cybersecurity is what drives me most: how systems are protected, how they fail, and how that affects a company's day-to-day operations. My goal is to bring solid technical skills and attitude to the analysis and defence of digital environments — and increasingly, to extract actionable intelligence from data.
 
-### Especialista en Ciberseguridad | Bastionado de Sistemas y Redes
+Technical Profile
 
-La tecnología me ha interesado desde siempre, y la seguridad informática es lo que más me mueve: cómo se protegen los sistemas, cómo fallan y cómo eso afecta al día a día de una empresa. Mi objetivo es aportar actitud y base técnica sólida en el análisis y defensa de entornos digitales.
+Education: Currently completing a Cybersecurity Specialisation programme.
+Focus: Systems hardening (Linux/Windows), Blue Team/SOC and Digital Forensics.
+Data & AI: Machine Learning pipelines, ETL processing, Power BI dashboards, MySQL and clinical data analysis with Python (pandas, scikit-learn).
+Infrastructure: Firewall management, TCP/IP networking and virtualisation with Docker.
+Languages: Advanced English, Native Spanish.
 
----
 
-### Perfil Técnico
+Projects & Tools
+Cybersecurity & Scripting
 
-- **Formación:** Cursando el programa de Especialización en Ciberseguridad.
-- **Enfoque:** Hardening de sistemas (Linux/Windows), Blue Team/SOC y Forense Digital.
-- **Infraestructura:** Gestión de firewalls, redes TCP/IP y virtualización con Docker.
-- **Idiomas:** Inglés nivel avanzado.
+Modular Network Scanner in Python: Network reconnaissance tool with concurrent TCP scanning (ThreadPoolExecutor), banner grabbing on web services and passive OS fingerprinting via TTL analysis with Scapy. Supports CIDR subnets, stealth and aggressive modes. Distributed as a pip package and Docker image published on GHCR.
+Face Scanner: Real-time computer vision system using MediaPipe and OpenCV. Local facial detection without cloud APIs, 478-point mesh, privacy blur, recording and CSV detection logging. Packaged in Docker with CI/CD that publishes the image to GHCR.
+Automation: Development of Python and Bash scripts for auditing and network tasks.
 
----
+Data & AI
 
-### Proyectos y Herramientas
+Acute Pancreatitis Severity Prediction: ML pipeline on 1,206 real patients to predict clinical severity at admission (AUC-ROC 0.92). ETL with pandas and MySQL, classification with Random Forest + SMOTE, and visualisation in a Power BI dashboard.
+5G, AI & Big Data (Integra Conocimiento): Specialised training in data analysis, generation of reports with key business indicators and extraction of actionable conclusions to support decision-making.
 
-**Ciberseguridad & Scripting**
 
-- **[Escáner de red modular en Python](https://github.com/fernando-redondo1/port-scanner):** Herramienta de reconocimiento con escaneo TCP concurrente, banner grabbing y OS fingerprinting mediante análisis de TTL con Scapy.
-- **[Face Scanner](https://github.com/fernando-redondo1/face-scanner):** Sistema de visión por computador en tiempo real con MediaPipe y OpenCV. Detección facial local sin APIs en la nube, malla 478 puntos, blur por privacidad, grabación y log CSV de detecciones. Empaquetado en Docker con CI/CD que publica imagen en GHCR.
-- **Automatización:** Desarrollo de scripts en Python y Bash para auditoría y tareas de red.
+Tech Stack
+Cybersecurity
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Data & AI
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
 
-**Stack Tecnológico**
+Certifications & Labs
 
-![Metasploit](https://img.shields.io/badge/-Metasploit-336791?style=flat-square&logo=metasploit&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux%20Hardening-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-red?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+Cisco Networking Academy: Introduction to Cybersecurity.
+AWS: Cloud Quest: Cloud Practitioner.
+HackTheBox: @Fernandoredondo1
+TryHackMe: ferredit26
 
----
 
-### Certificaciones y Laboratorios
+Contact
 
-- **Cisco Networking Academy:** Introduction to Cybersecurity.
-- **AWS:** Cloud Quest: Cloud Practitioner.
-- **HackTheBox:** [@Fernandoredondo1](https://app.hackthebox.com/users/37)
-- **TryHackMe:** [ferredit26](https://tryhackme.com/p/ferredit26)
-
----
-
-### Contacto
-
-- **LinkedIn:** [/fernando-redondo26](https://linkedin.com/in/fernando-redondo26)
-- **Email:** [ferreddit26@proton.me](mailto:ferreddit26@proton.me)
+LinkedIn: fernando-redondo26
+GitHub: fernando-redondo1
+Email: ferredit26@gmail.com
