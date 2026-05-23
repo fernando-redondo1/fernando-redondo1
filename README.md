@@ -61,5 +61,4 @@ Technology has always fascinated me, and cybersecurity is what drives me most: h
 ## Contact
 
 - **LinkedIn:** [fernando-redondo26](https://linkedin.com/in/fernando-redondo26)
-- **GitHub:** [fernando-redondo1](https://github.com/fernando-redondo1)
 - **Email:** ferredit26@gmail.com
