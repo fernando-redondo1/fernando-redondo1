@@ -24,11 +24,18 @@ Technology has always fascinated me, and cybersecurity is what drives me most: h
 - **[Face Scanner](https://github.com/fernando-redondo1):** Real-time computer vision system using MediaPipe and OpenCV. Local facial detection without cloud APIs, 478-point mesh, privacy blur, recording and CSV detection logging. Packaged in Docker with CI/CD that publishes the image to GHCR.
 - **Automation:** Development of Python and Bash scripts for auditing and network tasks.
 
+- **Blue Team Log Analyzer
+A lightweight, concurrent log monitoring engine written in Go, designed for real-time anomaly detection in SOC environments. It ingests system and authentication logs, evaluates them against customizable rule sets—detecting brute-force patterns, unauthorized access, and privilege escalation indicators—and emits structured alerts with minimal resource overhead.
+
+Key Features:
+High-Speed Parsing: Leverages Go's native concurrency (goroutines & channels) for low-latency log processing.
+Custom Detection Rules: Flexible rule engine for identifying suspicious patterns (failed SSH attempts, log manipulation, web attacks).
+Zero-Dependency Deployment: Compiles into a single binary for seamless execution on monitored endpoints.
+
 ### Data & AI
 
 - **[Acute Pancreatitis Severity Prediction](https://github.com/fernando-redondo1/acute-pancreatitis-severity-prediction):** ML pipeline on 1,206 real patients to predict clinical severity at admission (AUC-ROC 0.92). ETL with pandas and MySQL, classification with Random Forest + SMOTE, and visualisation in a Power BI dashboard.
 - **5G, AI & Big Data (Integra Conocimiento):** Specialised training in data analysis, generation of reports with key business indicators and extraction of actionable conclusions to support decision-making.
-
 ---
 
 ## Tech Stack
@@ -55,10 +62,11 @@ Technology has always fascinated me, and cybersecurity is what drives me most: h
 - **AWS:** Cloud Quest: Cloud Practitioner.
 - **HackTheBox:** [@Fernandoredondo1](https://app.hackthebox.com/profile/Fernandoredondo1)
 - **TryHackMe:** [ferredit26](https://tryhackme.com/p/ferredit26)
+- Splunk SOC Analyst (Learning Path) | Splunk STEP (Jun 2026)
 
 ---
 
 ## Contact
 
-- **LinkedIn:** [fernando-redondo26](https://linkedin.com/in/fernando-redondo26)
+- **LinkedIn:** [www.linkedin.com/in/fernando-redondo-perez)
 - **Email:** ferredit26@gmail.com
