@@ -21,8 +21,6 @@ Technology has always fascinated me, and cybersecurity is what drives me most: h
 ### Cybersecurity & Scripting
 
 - **[Modular Network Scanner in Python](https://github.com/fernando-redondo1/port-scanner):** Network reconnaissance tool with concurrent TCP scanning (ThreadPoolExecutor), banner grabbing on web services and passive OS fingerprinting via TTL analysis with Scapy. Supports CIDR subnets, stealth and aggressive modes. Distributed as a pip package and Docker image published on GHCR.
-- **[Face Scanner](https://github.com/fernando-redondo1):** Real-time computer vision system using MediaPipe and OpenCV. Local facial detection without cloud APIs, 478-point mesh, privacy blur, recording and CSV detection logging. Packaged in Docker with CI/CD that publishes the image to GHCR.
-- **Automation:** Development of Python and Bash scripts for auditing and network tasks.
 
 - **Blue Team Log Analyzer
 A lightweight, concurrent log monitoring engine written in Go, designed for real-time anomaly detection in SOC environments. It ingests system and authentication logs, evaluates them against customizable rule sets—detecting brute-force patterns, unauthorized access, and privilege escalation indicators—and emits structured alerts with minimal resource overhead.
