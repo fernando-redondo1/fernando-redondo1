@@ -18,8 +18,7 @@ La tecnología siempre me ha fascinado, y la ciberseguridad es lo que más me mo
 
 ## Proyectos y herramientas
 
-> Algunos proyectos se han desarrollado con apoyo de IA. Mi trabajo se centra en el diseño, las pruebas y la validación de los resultados, por ejemplo analizando el tráfico generado con `tcpdump`.
-
+> Algunos proyectos se han desarrollado con apoyo de IA. Mi trabajo se centra en el diseño, las pruebas y la validación de los resultados.
 ### Ciberseguridad
 
 - **[Escáner de red modular (InfoScann)](https://github.com/fernando-redondo1/port-scanner)**: herramienta de reconocimiento de red con escaneo concurrente, connect scan y SYN scan (*half-open*) con Scapy, distinción entre puertos abiertos, cerrados y filtrados, *banner grabbing* con lectura de certificados TLS e identificación pasiva del sistema operativo por TTL. Soporta subredes CIDR e IPv6, y exporta los resultados a JSON para su ingesta en un SIEM. Se distribuye como paquete pip e imagen Docker publicada en GHCR.
